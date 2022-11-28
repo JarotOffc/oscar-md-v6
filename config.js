@@ -14,24 +14,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
+global.vcardowner = ['62819541553'] //ur owner number
+global.ownername = "Ditzz" //ur owner name
+global.developer = "Ditzz" //nama lu
 global.ytname = "YT: Jarot offc" //ur yt chanel name
 global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
+global.sgc = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
+global.owner = ['62819541553'] //ur number
 global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
+global.ownertag = '62819541553' //ur tag number
+global.premium = ['6282197210183'] //ur premium number
+global.botname = 'Ditzz-𝘔𝘥' //ur bot name
+global.ownername = "Ditzz_Maker"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.dana = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
+global.pulsa = "62819541553"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
